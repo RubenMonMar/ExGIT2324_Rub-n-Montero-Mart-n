@@ -45,6 +45,13 @@ body{
     text-align: center;
 }
 
+.imagen{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
 .footer{ 
     background-color: #aeb5ce;
     padding: 20px;
